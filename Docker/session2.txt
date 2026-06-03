@@ -1,0 +1,4 @@
+Create VM using VMware 
+
+install VMware workstation and download ISO AND load it into vm
+
